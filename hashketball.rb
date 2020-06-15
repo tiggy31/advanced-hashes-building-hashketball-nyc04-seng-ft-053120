@@ -12,6 +12,7 @@ def game_hash
                           :assists =>
                            :steals =>
                            :blocks =>
+                           :slam_dunks =>
                           }]
     }
     :away =>{:team_name
