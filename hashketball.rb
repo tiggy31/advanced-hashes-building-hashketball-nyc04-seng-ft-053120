@@ -7,6 +7,7 @@ def game_hash
             :players => [{:player_name => ,
                           :number =>  ,
                           :shoe => ,
+                          :points => ,
                           
               
               
