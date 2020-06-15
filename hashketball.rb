@@ -4,7 +4,9 @@ def game_hash
  {
    :home =>{}
    
-   :away =>{}
  }
   
+  {
+    :away =>{}
+  }
 end
